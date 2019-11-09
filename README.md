@@ -1,1 +1,0 @@
-# groupes10.py
